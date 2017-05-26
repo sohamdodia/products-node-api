@@ -1,0 +1,30 @@
+{
+  "name": "wingify-challenge",
+  "version": "1.0.0",
+  "description": "Product API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha server/tests/index.js",
+    "start": "node server/server.js",
+    "test-watch": "nodemon --exec 'npm test'"
+  },
+  "engines": {
+    "node": "7.2.1"
+  },
+  "author": "Soham Dodia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.7.2",
+    "rand-token": "^0.3.0"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.4.1",
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0"
+  }
+}

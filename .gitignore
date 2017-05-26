@@ -1,0 +1,4 @@
+node_modules/
+database/
+mongo.log
+mongo.log.*

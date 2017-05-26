@@ -1,0 +1,9 @@
+require('./signup.test');
+require('./login.test');
+require('./products.add.test');
+require('./products.my.test');
+require('./products.id.get.test');
+require('./products.test');
+require('./products.search.test');
+require('./products.id.patch.test');
+require('./products.id.delete.test');
