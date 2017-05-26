@@ -13,7 +13,7 @@ Design a RESTful API for an online store which can be used to manage different p
 - npm
 - mongodb
 
-1. `git clone https://github.com/sohamdodia/recruitment.git sohamdodia`
+1. `git clone https://github.com/sohamdodia/products-node-api.git.git sohamdodia`
 2. `cd sohamdodia`
 3. `sh start.sh`
 4. For Test Case: `sh test.sh`
